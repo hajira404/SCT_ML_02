@@ -50,11 +50,14 @@ Based on the clustering results, we identified the following customer segments:
 ## Visualizations
 The following graphs illustrate the relationships between key features and the clusters identified:
 
-### 1. Elbow method to find K
-![Number of clusters vs WCSS]("C:\Users\hajira\Pictures\Screenshots\Screenshot 2024-11-03 013232.png")
+### 1. Elbow Method to Find K
+![Number of clusters vs WCSS](images/elbow_graph.png)
 
 ### 2. Customer Segments Based on Income and Spending Score
-![Annual Income vs Purchase amount]("C:\Users\hajira\Pictures\Screenshots\Screenshot 2024-11-04 203159.png")
+![Annual Income vs Purchase Amount](images/kmeans_clusters.png)
+
+### 3. Customer Summary Output
+![Cluster Summary Output](images/cluster_summary.png)
 
 Each visualization helps in understanding the distribution and characteristics of each customer segment. 
 
